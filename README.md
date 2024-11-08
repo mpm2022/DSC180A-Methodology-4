@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Mariana Paco Mendivil
-mpacomendivil@ucsd.edu
+Mariana Paco Mendivil and Candus Shi
