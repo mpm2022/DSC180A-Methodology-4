@@ -1,2 +1,2 @@
 # DSC180A-Methodology-4
-Mariana Paco Mendivil
+Candus Shi
